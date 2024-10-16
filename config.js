@@ -12,8 +12,8 @@
 const ms = require('ms');
 
 module.exports = {
-  token: '', // التوكن
-  allowedChannelId: '', // ايدي روم خاص للبنك
+  token: '', // اMTI5NTI5NTE2MTYwOTM1OTM4MQ.G87g-8.dZivJ7ntgwPmPYiPYzYcnAm2MOBjXn2qJxddmA
+  allowedChannelId: '', // 1294987841784512522
 
   // اوقات التجميد لكل امر
   cooldowns: {
